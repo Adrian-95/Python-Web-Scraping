@@ -1,0 +1,104 @@
+{
+     "1": {
+          "name": "The Departed",
+          "runtime": "151 min",
+          "genre": "Crime, Drama, Thriller",
+          "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+     },
+     "2": {
+          "name": "Pans labyrint",
+          "runtime": "118 min",
+          "genre": "Drama, Fantasy, War",
+          "description": "In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world."
+     },
+     "3": {
+          "name": "De andres liv",
+          "runtime": "137 min",
+          "genre": "Drama, Mystery, Thriller",
+          "description": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives."
+     },
+     "4": {
+          "name": "Pirates of the Caribbean - D\u00f8d mands kiste",
+          "runtime": "151 min",
+          "genre": "Action, Adventure, Fantasy",
+          "description": "Jack Sparrow races to recover the heart of Davy Jones to avoid enslaving his soul to Jones' service, as other friends and foes seek the heart for their own agenda as well."
+     },
+     "5": {
+          "name": "Little Miss Sunshine",
+          "runtime": "101 min",
+          "genre": "Comedy, Drama",
+          "description": "A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus."
+     },
+     "6": {
+          "name": "Marie Antoinette",
+          "runtime": "123 min",
+          "genre": "Biography, Drama, History",
+          "description": "The retelling of France's iconic but ill-fated queen, Marie Antoinette. From her betrothal and marriage to Louis XVI at 15 to her reign as queen at 19 and to the end of her reign as queen, and ultimately the fall of Versailles."
+     },
+     "7": {
+          "name": "Babel",
+          "runtime": "143 min",
+          "genre": "Drama",
+          "description": "Tragedy strikes a married couple on vacation in the Moroccan desert, touching off an interlocking story involving four different families."
+     },
+     "8": {
+          "name": "The Queen",
+          "runtime": "103 min",
+          "genre": "Biography, Drama, History",
+          "description": "After the death of Princess Diana, Queen Elizabeth II struggles with her reaction to a sequence of events nobody could have predicted."
+     },
+     "9": {
+          "name": "Happy Feet",
+          "runtime": "108 min",
+          "genre": "Animation, Adventure, Comedy",
+          "description": "Into the world of the Emperor Penguins, who find their soul mates through song, a penguin is born who cannot sing. But he can tap dance something fierce!"
+     },
+     "10": {
+          "name": "The Last King of Scotland",
+          "runtime": "123 min",
+          "genre": "Biography, Drama, History",
+          "description": "Based on the events of the brutal Ugandan dictator Idi Amin's regime as seen by his personal physician during the 1970s."
+     },
+     "11": {
+          "name": "Dreamgirls",
+          "runtime": "130 min",
+          "genre": "Drama, Music, Musical",
+          "description": "A trio of black female soul singers cross over to the pop charts in the early 1960s, facing their own personal struggles along the way."
+     },
+     "12": {
+          "name": "Letters from Iwo Jima",
+          "runtime": "141 min",
+          "genre": "Action, Adventure, Drama",
+          "description": "The story of the battle of Iwo Jima between the United States and Imperial Japan during World War II, as told from the perspective of the Japanese who fought it."
+     },
+     "13": {
+          "name": "En ubekvem sandhed",
+          "runtime": "96 min",
+          "genre": "Documentary, News",
+          "description": "Filmmaker Davis Guggenheim follows Al Gore on the lecture circuit, as the former presidential candidate campaigns to raise public awareness of the dangers of global warming and calls for immediate action to curb its destructive effects on the environment."
+     },
+     "14": {
+          "name": "Peter & the Wolf",
+          "runtime": "32 min",
+          "genre": "Animation, Short, Adventure",
+          "description": "An animated retelling set to Prokofiev's suite. Peter is a slight lad, solitary, locked out of the woods by his protective grandfather, his only friend a duck. In town, he's bullied. When a...                See full summary\u00a0\u00bb"
+     },
+     "15": {
+          "name": "The Danish Poet",
+          "runtime": "15 min",
+          "genre": "Animation, Short, Romance",
+          "description": "A woman ponders over the strange coincidences that made her forefathers and -mothers meet and create the premises for her becoming the person that she is."
+     },
+     "16": {
+          "name": "Le Mozart des pickpockets",
+          "runtime": "31 min",
+          "genre": "Short, Comedy, Crime",
+          "description": "Richard and Philippe live hand to mouth, backing up a gang of Spanish pickpockets on the streets of Paris, posing as policemen who arrest a gang member while the others rifle the pockets ...                See full summary\u00a0\u00bb"
+     },
+     "17": {
+          "name": "The Blood of Yingzhou District",
+          "runtime": "38 min",
+          "genre": "Documentary, Short",
+          "description": "A year in the life of children in the Province of Anhui in China, who have lost their parents to AIDS. Traditional obligations to family and village collide with terror of the disease."
+     }
+}

@@ -1,0 +1,98 @@
+{
+     "1": {
+          "name": "Suicide Squad",
+          "runtime": "123 min",
+          "genre": "Action, Adventure, Fantasy",
+          "description": "A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse."
+     },
+     "2": {
+          "name": "Hacksaw Ridge",
+          "runtime": "139 min",
+          "genre": "Biography, Drama, History",
+          "description": "World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot."
+     },
+     "3": {
+          "name": "Zootropolis",
+          "runtime": "108 min",
+          "genre": "Animation, Adventure, Comedy",
+          "description": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy."
+     },
+     "4": {
+          "name": "La La Land",
+          "runtime": "128 min",
+          "genre": "Comedy, Drama, Music",
+          "description": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future."
+     },
+     "5": {
+          "name": "Arrival",
+          "runtime": "116 min",
+          "genre": "Drama, Sci-Fi",
+          "description": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecrafts appear around the world."
+     },
+     "6": {
+          "name": "Moonlight",
+          "runtime": "111 min",
+          "genre": "Drama",
+          "description": "A young African-American man grapples with his identity and sexuality while experiencing the everyday struggles of childhood, adolescence, and burgeoning adulthood."
+     },
+     "7": {
+          "name": "Manchester by the Sea",
+          "runtime": "137 min",
+          "genre": "Drama",
+          "description": "A depressed uncle is asked to take care of his teenage nephew after the boy's father dies."
+     },
+     "8": {
+          "name": "Fantastiske skabninger og hvor de findes",
+          "runtime": "132 min",
+          "genre": "Adventure, Family, Fantasy",
+          "description": "The adventures of writer Newt Scamander in New York's secret community of witches and wizards seventy years before Harry Potter reads his book in school."
+     },
+     "9": {
+          "name": "Junglebogen",
+          "runtime": "106 min",
+          "genre": "Adventure, Drama, Family",
+          "description": "After a threat from the tiger Shere Khan forces him to flee the jungle, a man-cub named Mowgli embarks on a journey of self discovery with the help of panther Bagheera and free-spirited bear Baloo."
+     },
+     "10": {
+          "name": "Fences",
+          "runtime": "139 min",
+          "genre": "Drama",
+          "description": "A working-class African-American father tries to raise his family in the 1950s, while coming to terms with the events of his life."
+     },
+     "11": {
+          "name": "S\u00e6lgeren",
+          "runtime": "124 min",
+          "genre": "Drama",
+          "description": "While both participating in a production of \"Death of a Salesman,\" a teacher's wife is assaulted in her new home, which leaves him determined to find the perpetrator over his wife's traumatized objections."
+     },
+     "12": {
+          "name": "O.J.: Made in America",
+          "runtime": "467 min",
+          "genre": "Documentary, Biography, Crime",
+          "description": "A chronicle of the rise and fall of O.J. Simpson, whose high-profile murder trial exposed the extent of American racial tensions, revealing a fractured and divided nation."
+     },
+     "13": {
+          "name": "Piper",
+          "runtime": "6 min",
+          "genre": "Animation, Short, Family",
+          "description": "A hungry sandpiper hatchling ventures from her nest for the first time to dig for food by the shoreline. The problem is, the food is buried in the sand where scary waves roll up."
+     },
+     "14": {
+          "name": "Mindenki",
+          "runtime": "25 min",
+          "genre": "Short, Drama, Music",
+          "description": "'Sing' is a childhood drama with a lot of music, set in 1990s Budapest, Hungary. Inspired by a true story, it follows an award winning school choir and the new girl in class who just might uncover the ugly secret behind their fame."
+     },
+     "15": {
+          "name": "The White Helmets",
+          "runtime": "41 min",
+          "genre": "Documentary, Short, War",
+          "description": "As daily airstrikes pound civilian targets in Syria, a group of indomitable first responders risk their lives to rescue victims from the rubble."
+     },
+     "16": {
+          "name": "Heaven Is a Traffic Jam on the 405",
+          "runtime": "40 min",
+          "genre": "Documentary, Short, Biography",
+          "description": "A brilliant but tortured 56-year-old artist channels her depression and anxiety into her work."
+     }
+}

@@ -1,0 +1,98 @@
+{
+     "1": {
+          "name": "Django Unchained",
+          "runtime": "165 min",
+          "genre": "Drama, Western",
+          "description": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner."
+     },
+     "2": {
+          "name": "Skyfall",
+          "runtime": "143 min",
+          "genre": "Action, Adventure, Thriller",
+          "description": "James Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost."
+     },
+     "3": {
+          "name": "Zero Dark Thirty",
+          "runtime": "157 min",
+          "genre": "Drama, History, Thriller",
+          "description": "A chronicle of the decade-long hunt for al-Qaeda terrorist leader Osama bin Laden after the September 2001 attacks, and his death at the hands of the Navy S.E.A.L.s Team 6 in May 2011."
+     },
+     "4": {
+          "name": "Les Mis\u00e9rables",
+          "runtime": "158 min",
+          "genre": "Drama, History, Musical",
+          "description": "In 19th-century France, Jean Valjean, who for decades has been hunted by the ruthless policeman Javert after breaking parole, agrees to care for a factory worker's daughter. The decision changes their lives forever."
+     },
+     "5": {
+          "name": "Silver Linings Playbook",
+          "runtime": "122 min",
+          "genre": "Comedy, Drama, Romance",
+          "description": "After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife. Things get more challenging when Pat meets Tiffany, a mysterious girl with problems of her own."
+     },
+     "6": {
+          "name": "Operation Argo",
+          "runtime": "120 min",
+          "genre": "Biography, Drama, Thriller",
+          "description": "Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979."
+     },
+     "7": {
+          "name": "Modig",
+          "runtime": "93 min",
+          "genre": "Animation, Adventure, Comedy",
+          "description": "Determined to make her own path in life, Princess Merida (Kelly Macdonald) defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse."
+     },
+     "8": {
+          "name": "Anna Karenina",
+          "runtime": "129 min",
+          "genre": "Drama, Romance",
+          "description": "In late-19th-century Russian high society, St. Petersburg aristocrat Anna Karenina enters into a life-changing affair with the dashing Count Alexei Vronsky."
+     },
+     "9": {
+          "name": "Lincoln",
+          "runtime": "150 min",
+          "genre": "Biography, Drama, History",
+          "description": "As the American Civil War continues to rage, America's president struggles with continuing carnage on the battlefield as he fights with many inside his own cabinet on the decision to emancipate the slaves."
+     },
+     "10": {
+          "name": "Life of Pi",
+          "runtime": "127 min",
+          "genre": "Adventure, Drama, Fantasy",
+          "description": "A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger."
+     },
+     "11": {
+          "name": "Amour",
+          "runtime": "127 min",
+          "genre": "Drama, Romance",
+          "description": "Georges and Anne are an octogenarian couple. They are cultivated, retired music teachers. Their daughter, also a musician, lives in Britain with her family. One day, Anne has a stroke, and the couple's bond of love is severely tested."
+     },
+     "12": {
+          "name": "Searching for Sugar Man",
+          "runtime": "86 min",
+          "genre": "Documentary, Biography, Music",
+          "description": "Two South Africans set out to discover what happened to their unlikely musical hero, the mysterious 1970s rock n roller, Rodriguez."
+     },
+     "13": {
+          "name": "Papirflyveren",
+          "runtime": "7 min",
+          "genre": "Animation, Short, Comedy",
+          "description": "An office worker meets the girl of his dreams and uses a fleet of paper airplanes to get her attention."
+     },
+     "14": {
+          "name": "Curfew",
+          "runtime": "19 min",
+          "genre": "Short, Drama",
+          "description": "Having reached the lowest point in his life, a self-destructive man on the brink of demise receives an unexpected call from his estranged sister to look after her young daughter for the night. Could this be the beginning of a new reality?"
+     },
+     "15": {
+          "name": "Saving Face",
+          "runtime": "40 min",
+          "genre": "Documentary, Short, Drama",
+          "description": "Plastic surgeon Dr. Mohammad Jawad returns to his native Pakistan to help those left horribly scarred by acid attacks."
+     },
+     "16": {
+          "name": "Inocente",
+          "runtime": "40 min",
+          "genre": "Documentary, Short, Biography",
+          "description": "A personal and vibrant coming of age story about a young artist's determination never to surrender to the bleakness of her surroundings. At 15, Inocente refuses to let her dream of becoming...                See full summary\u00a0\u00bb"
+     }
+}

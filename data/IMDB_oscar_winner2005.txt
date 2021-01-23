@@ -1,0 +1,92 @@
+{
+     "1": {
+          "name": "Narnia: L\u00f8ven, heksen og garderobeskabet",
+          "runtime": "143 min",
+          "genre": "Adventure, Family, Fantasy",
+          "description": "Four kids travel through a wardrobe to the land of Narnia and learn of their destiny to free it with the guidance of a mystical lion."
+     },
+     "2": {
+          "name": "Brokeback Mountain",
+          "runtime": "134 min",
+          "genre": "Drama, Romance",
+          "description": "The story of a forbidden and secretive relationship between two cowboys, and their lives over the years."
+     },
+     "3": {
+          "name": "King Kong",
+          "runtime": "187 min",
+          "genre": "Action, Adventure, Drama",
+          "description": "A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives."
+     },
+     "4": {
+          "name": "Walk the Line",
+          "runtime": "136 min",
+          "genre": "Biography, Drama, Music",
+          "description": "A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis, and Carl Perkins."
+     },
+     "5": {
+          "name": "Mit liv som geisha",
+          "runtime": "145 min",
+          "genre": "Drama, Romance",
+          "description": "Nitta Sayuri reveals how she transcended her fishing-village roots and became one of Japan's most celebrated geisha."
+     },
+     "6": {
+          "name": "The Constant Gardener",
+          "runtime": "129 min",
+          "genre": "Drama, Mystery, Romance",
+          "description": "A widower is determined to get to the bottom of a potentially explosive secret involving his wife's murder, big business, and corporate corruption."
+     },
+     "7": {
+          "name": "Capote",
+          "runtime": "114 min",
+          "genre": "Biography, Crime, Drama",
+          "description": "In 1959, Truman Capote learns of the murder of a Kansas family and decides to write a book about the case. While researching for his novel In Cold Blood, Capote forms a relationship with one of the killers, Perry Smith, who is on death row."
+     },
+     "8": {
+          "name": "Walter og Trofast - Det store gr\u00f8ntsagskup",
+          "runtime": "85 min",
+          "genre": "Animation, Adventure, Comedy",
+          "description": "Wallace and his loyal dog, Gromit, set out to discover the mystery behind the garden sabotage that plagues their village and threatens the annual giant vegetable growing contest."
+     },
+     "9": {
+          "name": "Syriana",
+          "runtime": "128 min",
+          "genre": "Drama, Thriller",
+          "description": "A politically charged epic about the state of the oil industry in the hands of those personally involved in and affected by it."
+     },
+     "10": {
+          "name": "Hustle & Flow",
+          "runtime": "116 min",
+          "genre": "Crime, Drama, Music",
+          "description": "With help from his friends, a Memphis pimp in a mid-life crisis attempts to become a successful hip-hop emcee."
+     },
+     "11": {
+          "name": "Pingvinmarchen",
+          "runtime": "80 min",
+          "genre": "Documentary, Family",
+          "description": "In the Antarctic, every March since the beginning of time, the quest begins to find the perfect mate and start a family."
+     },
+     "12": {
+          "name": "Tsotsi",
+          "runtime": "95 min",
+          "genre": "Crime, Drama",
+          "description": "Six days in the violent life of a young Johannesburg gang leader."
+     },
+     "13": {
+          "name": "West Bank Story",
+          "runtime": "21 min",
+          "genre": "Short, Comedy, Musical",
+          "description": "A musical comedy set in the fast-paced, fast-food world of competing falafel stands on the West Bank. David, an Israeli soldier, falls in love with Fatima, a beautiful Palestinian cashier, ...                See full summary\u00a0\u00bb"
+     },
+     "14": {
+          "name": "The Moon and the Son: An Imagined Conversation",
+          "runtime": "28 min",
+          "genre": "Animation, Short, Biography",
+          "description": "The Moon and the Son, a 30-minute autobiographical animated film by John Canemaker, explores the difficult emotional terrain of father/son relationships as seen through Canemaker's own ...                See full summary\u00a0\u00bb"
+     },
+     "15": {
+          "name": "A Note of Triumph: The Golden Age of Norman Corwin",
+          "runtime": "39 min",
+          "genre": "Documentary, Short, Biography",
+          "description": "A biography of Poet Norman Corwin, and the events surrounding his powerful radio broadcast commemorating VE Day on May 8, 1945."
+     }
+}

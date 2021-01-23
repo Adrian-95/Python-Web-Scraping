@@ -1,0 +1,92 @@
+{
+     "1": {
+          "name": "Den store Gatsby",
+          "runtime": "143 min",
+          "genre": "Drama, Romance",
+          "description": "A writer and wall street trader, Nick, finds himself drawn to the past and lifestyle of his millionaire neighbor, Jay Gatsby."
+     },
+     "2": {
+          "name": "Frost",
+          "runtime": "102 min",
+          "genre": "Animation, Adventure, Comedy",
+          "description": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition."
+     },
+     "3": {
+          "name": "Hende",
+          "runtime": "126 min",
+          "genre": "Drama, Romance, Sci-Fi",
+          "description": "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need."
+     },
+     "4": {
+          "name": "Dallas Buyers Club",
+          "runtime": "117 min",
+          "genre": "Biography, Drama",
+          "description": "In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease."
+     },
+     "5": {
+          "name": "12 Years a Slave",
+          "runtime": "134 min",
+          "genre": "Biography, Drama, History",
+          "description": "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery."
+     },
+     "6": {
+          "name": "Gravity",
+          "runtime": "91 min",
+          "genre": "Drama, Sci-Fi, Thriller",
+          "description": "Two astronauts work together to survive after an accident leaves them stranded in space."
+     },
+     "7": {
+          "name": "Blue Jasmine",
+          "runtime": "98 min",
+          "genre": "Drama",
+          "description": "A New York socialite, deeply troubled and in denial, arrives in San Francisco to impose upon her sister. She looks a million, but isn't bringing money, peace, or love..."
+     },
+     "8": {
+          "name": "Den store sk\u00f8nhed",
+          "runtime": "141 min",
+          "genre": "Drama",
+          "description": "Jep Gambardella has seduced his way through the lavish nightlife of Rome for decades, but after his 65th birthday and a shock from the past, Jep looks past the nightclubs and parties to find a timeless landscape of absurd, exquisite beauty."
+     },
+     "9": {
+          "name": "Ida",
+          "runtime": "82 min",
+          "genre": "Drama",
+          "description": "A novice nun about to take her vows uncovers a family secret dating back to the German occupation."
+     },
+     "10": {
+          "name": "I skyggen af stjernerne",
+          "runtime": "91 min",
+          "genre": "Documentary, Biography, History",
+          "description": "Backup singers live in a world that lies just beyond the spotlight. Their voices bring harmony to the biggest bands in popular music, but we've had no idea who these singers are or what lives they lead, until now."
+     },
+     "11": {
+          "name": "The Phone Call",
+          "runtime": "22 min",
+          "genre": "Short, Drama",
+          "description": "Heather is a shy lady who works in a helpline call centre. When she receives a phone call from a mystery man, she has no idea that the encounter will change her life forever."
+     },
+     "12": {
+          "name": "Mr Hublot",
+          "runtime": "11 min",
+          "genre": "Animation, Short, Comedy",
+          "description": "Mr Hublot is a withdrawn, idiosyncratic character with OCD, scared of change and the outside world. Robot Pet's arrival turns his life upside down: he has to share his home with this very invasive companion."
+     },
+     "13": {
+          "name": "The Lady in Number 6: Music Saved My Life",
+          "runtime": "39 min",
+          "genre": "Documentary, Short, Biography",
+          "description": "Aliza Sommer-Herz, aged 109 and the world's oldest Holocaust survivor, tells the story of how music saved her life: both during her time at Theresienstadt concentration camp and in the years afterwards."
+     },
+     "14": {
+          "name": "Helium",
+          "runtime": "23 min",
+          "genre": "Short, Drama, Family",
+          "description": "A young boy Alfred is dying, but through the stories about HELIUM - a magical fantasy world, told by the hospital's eccentric janitor Enzo, Alfred regain the joy and happiness of his life, and finds a safe haven away from daily life."
+     },
+     "15": {
+          "name": "Crisis Hotline: Veterans Press 1",
+          "runtime": "40 min",
+          "genre": "Documentary, Short",
+          "description": "Counselors provide support, guidance and hope to despondent servicemen dealing with emotional, physical and financial troubles."
+     }
+}

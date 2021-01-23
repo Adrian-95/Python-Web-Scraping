@@ -1,0 +1,86 @@
+{
+     "1": {
+          "name": "Gladiator",
+          "runtime": "155 min",
+          "genre": "Action, Adventure, Drama",
+          "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+     },
+     "2": {
+          "name": "Almost Famous",
+          "runtime": "122 min",
+          "genre": "Adventure, Comedy, Drama",
+          "description": "A high-school boy is given the chance to write a story for Rolling Stone Magazine about an up-and-coming rock band as he accompanies them on their concert tour."
+     },
+     "3": {
+          "name": "Erin Brockovich",
+          "runtime": "131 min",
+          "genre": "Biography, Drama",
+          "description": "An unemployed single mother becomes a legal assistant and almost single-handedly brings down a California power company accused of polluting a city's water supply."
+     },
+     "4": {
+          "name": "U-571",
+          "runtime": "116 min",
+          "genre": "Action, War",
+          "description": "A German submarine is boarded by disguised American submariners trying to capture their Enigma cipher machine."
+     },
+     "5": {
+          "name": "Grinchen - Julen er stj\u00e5let",
+          "runtime": "104 min",
+          "genre": "Comedy, Family, Fantasy",
+          "description": "On the outskirts of Whoville lives a green, revenge-seeking Grinch who plans to ruin Christmas for all of the citizens of the town."
+     },
+     "6": {
+          "name": "Tiger p\u00e5 spring, drage i skjul",
+          "runtime": "120 min",
+          "genre": "Action, Adventure, Fantasy",
+          "description": "A young Chinese warrior steals a sword from a famed swordsman and then escapes into a world of romantic adventure with a mysterious man in the frontier of the nation."
+     },
+     "7": {
+          "name": "Traffic",
+          "runtime": "147 min",
+          "genre": "Crime, Drama, Thriller",
+          "description": "A conservative judge is appointed by the President to spearhead America's escalating war against drugs, only to discover that his teenage daughter is a crack addict. Two DEA agents protect an informant. A jailed drug baron's wife attempts to carry on the family business."
+     },
+     "8": {
+          "name": "Wonder Boys",
+          "runtime": "107 min",
+          "genre": "Comedy, Drama",
+          "description": "An English Professor tries to deal with his wife leaving him, the arrival of his editor who has been waiting for his book for seven years, and the various problems that his friends and associates involve him in."
+     },
+     "9": {
+          "name": "Pollock",
+          "runtime": "122 min",
+          "genre": "Biography, Drama",
+          "description": "A film about the life and career of the American painter, Jackson Pollock."
+     },
+     "10": {
+          "name": "For the Birds",
+          "runtime": "3 min",
+          "genre": "Animation, Short, Comedy",
+          "description": "A group of snooty birds roosting on a telephone wire get their just deserts when a goofy bird drops in."
+     },
+     "11": {
+          "name": "Into the Arms of Strangers: Stories of the Kindertransport",
+          "runtime": "122 min",
+          "genre": "Documentary, History, War",
+          "description": "The secret smuggling of 9,300 Jewish children out of Nazi-occupied Germany in the late 1930s."
+     },
+     "12": {
+          "name": "Father and Daughter",
+          "runtime": "8 min",
+          "genre": "Animation, Short, Drama",
+          "description": "A father says goodbye to his young daughter. Time passes and the daughter moves through life age by age, but within her there is always a deep longing for her father."
+     },
+     "13": {
+          "name": "Quiero ser (I want to be...)",
+          "runtime": "35 min",
+          "genre": "Short, Drama",
+          "description": "The paths of two orphan brothers drastically change over the years, beginning when they were just boys living on the streets of Mexico City."
+     },
+     "14": {
+          "name": "Big Mama",
+          "runtime": "35 min",
+          "genre": "Short, Documentary",
+          "description": "The story of Viola Dees, an elderly woman who is trying to care for her troubled grandson."
+     }
+}

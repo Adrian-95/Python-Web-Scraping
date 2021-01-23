@@ -1,0 +1,92 @@
+{
+     "1": {
+          "name": "Inception",
+          "runtime": "148 min",
+          "genre": "Action, Adventure, Sci-Fi",
+          "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+     },
+     "2": {
+          "name": "The Social Network",
+          "runtime": "120 min",
+          "genre": "Biography, Drama",
+          "description": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business."
+     },
+     "3": {
+          "name": "Black Swan",
+          "runtime": "108 min",
+          "genre": "Drama, Thriller",
+          "description": "A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's \"Swan Lake\"."
+     },
+     "4": {
+          "name": "Alice i Eventyrland",
+          "runtime": "108 min",
+          "genre": "Adventure, Family, Fantasy",
+          "description": "Nineteen-year-old Alice returns to the magical world from her childhood adventure, where she reunites with her old friends and learns of her true destiny: to end the Red Queen's reign of terror."
+     },
+     "5": {
+          "name": "Kongens store tale",
+          "runtime": "118 min",
+          "genre": "Biography, Drama, History",
+          "description": "The story of King George VI, his impromptu ascension to the throne of the British Empire in 1936, and the speech therapist who helped the unsure monarch overcome his stammer."
+     },
+     "6": {
+          "name": "The Fighter",
+          "runtime": "116 min",
+          "genre": "Biography, Drama, Sport",
+          "description": "Based on the story of Micky Ward, a fledgling boxer who tries to escape the shadow of his more famous but troubled older boxing brother and get his own shot at greatness."
+     },
+     "7": {
+          "name": "Toy Story 3",
+          "runtime": "103 min",
+          "genre": "Animation, Adventure, Comedy",
+          "description": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home."
+     },
+     "8": {
+          "name": "The Wolfman",
+          "runtime": "103 min",
+          "genre": "Drama, Fantasy, Horror",
+          "description": "Upon his return to his ancestral homeland, an American man is bitten, and subsequently cursed by, a werewolf."
+     },
+     "9": {
+          "name": "Beginners",
+          "runtime": "105 min",
+          "genre": "Comedy, Drama, Romance",
+          "description": "A young man is rocked by two announcements from his elderly father: that he has terminal cancer and that he has a young male lover."
+     },
+     "10": {
+          "name": "Wall Street indefra",
+          "runtime": "109 min",
+          "genre": "Documentary, Crime",
+          "description": "Takes a closer look at what brought about the 2008 financial meltdown."
+     },
+     "11": {
+          "name": "H\u00e6vnen",
+          "runtime": "118 min",
+          "genre": "Drama, Romance",
+          "description": "The lives of two Danish families cross each other, and an extraordinary but risky friendship comes into bud. But loneliness, frailty and sorrow lie in wait."
+     },
+     "12": {
+          "name": "The Lost Thing",
+          "runtime": "15 min",
+          "genre": "Animation, Short, Drama",
+          "description": "A boy finds a strange creature on a beach, and decides to find a home for it in a world where everyone believes there are far more important things to pay attention to."
+     },
+     "13": {
+          "name": "God of Love",
+          "runtime": "18 min",
+          "genre": "Short, Comedy, Fantasy",
+          "description": "A lovestruck, lounge-singing darts champion finds his prayers are answered -- literally -- when he mysteriously receives a box of love-inducing darts."
+     },
+     "14": {
+          "name": "Strangers No More",
+          "runtime": "40 min",
+          "genre": "Documentary, Short",
+          "description": "In the heart of Tel Aviv, there is an exceptional school where children from forty-eight different countries and diverse backgrounds come together to learn. Many of the students arrive at ...                See full summary\u00a0\u00bb"
+     },
+     "15": {
+          "name": "Music by Prudence",
+          "runtime": "33 min",
+          "genre": "Documentary, Short, Biography",
+          "description": "Prudence Mabhena leads a group of young, disabled Africans who inspire others with their music, proving that disability does not mean inability."
+     }
+}

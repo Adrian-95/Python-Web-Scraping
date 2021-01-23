@@ -1,0 +1,98 @@
+{
+     "1": {
+          "name": "Ringenes herre: Eventyret om ringen",
+          "runtime": "178 min",
+          "genre": "Action, Adventure, Drama",
+          "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+     },
+     "2": {
+          "name": "Chihiro og heksene",
+          "runtime": "125 min",
+          "genre": "Animation, Adventure, Family",
+          "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts."
+     },
+     "3": {
+          "name": "Et smukt sind",
+          "runtime": "135 min",
+          "genre": "Biography, Drama",
+          "description": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish."
+     },
+     "4": {
+          "name": "Shrek",
+          "runtime": "90 min",
+          "genre": "Animation, Adventure, Comedy",
+          "description": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back."
+     },
+     "5": {
+          "name": "Training Day",
+          "runtime": "122 min",
+          "genre": "Crime, Drama, Thriller",
+          "description": "A rookie cop spends his first day as a Los Angeles narcotics officer with a rogue detective who isn't what he appears to be."
+     },
+     "6": {
+          "name": "Monsters, Inc.",
+          "runtime": "92 min",
+          "genre": "Animation, Adventure, Comedy",
+          "description": "In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, 2 monsters realize things may not be what they think."
+     },
+     "7": {
+          "name": "Black Hawk Down",
+          "runtime": "144 min",
+          "genre": "Drama, History, War",
+          "description": "160 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis."
+     },
+     "8": {
+          "name": "Pearl Harbor",
+          "runtime": "183 min",
+          "genre": "Action, Drama, History",
+          "description": "A tale of war and romance mixed in with history. The story follows two lifelong friends and a beautiful nurse who are caught up in the horror of an infamous Sunday morning in 1941."
+     },
+     "9": {
+          "name": "Moulin Rouge!",
+          "runtime": "127 min",
+          "genre": "Drama, Musical, Romance",
+          "description": "A poet falls for a beautiful courtesan whom a jealous duke covets."
+     },
+     "10": {
+          "name": "Monster's Ball",
+          "runtime": "111 min",
+          "genre": "Drama, Romance",
+          "description": "After a family tragedy, a racist prison guard re-examines his attitudes while falling in love with the African-American wife of the last prisoner he executed."
+     },
+     "11": {
+          "name": "Gosford Park",
+          "runtime": "131 min",
+          "genre": "Comedy, Drama, Mystery",
+          "description": "Set in the 1930s, this movie brings a group of pretentious rich and famous together for a weekend of relaxation at a hunting resort. But when a murder occurs, each one of these interesting characters becomes a suspect."
+     },
+     "12": {
+          "name": "Ingenmandsland",
+          "runtime": "98 min",
+          "genre": "Comedy, Drama, War",
+          "description": "Bosnia and Herzegovina during 1993 at the time of the heaviest fighting between the two warring sides. Two soldiers from opposing sides in the conflict, Nino and Ciki, become trapped in no man's land, whilst a third soldier becomes a living booby trap."
+     },
+     "13": {
+          "name": "Iris",
+          "runtime": "91 min",
+          "genre": "Biography, Drama, Romance",
+          "description": "True story of the lifelong romance between novelist Iris Murdoch and her husband John Bayley, from their student days through her battle with Alzheimer's disease."
+     },
+     "14": {
+          "name": "Fortabt i Afrika",
+          "runtime": "141 min",
+          "genre": "Biography, Drama, History",
+          "description": "A German Jewish refugee family moves to and adjusts to a farm life in 1930s Kenya."
+     },
+     "15": {
+          "name": "The Accountant",
+          "runtime": "35 min",
+          "genre": "Comedy, Short",
+          "description": "The O'Dell farm is on the rocks. A non-traditional accountant comes with a variety of ways to save the farm."
+     },
+     "16": {
+          "name": "Mord en s\u00f8ndag morgen",
+          "runtime": "111 min",
+          "genre": "Documentary, Crime",
+          "description": "Oscar-winning documentary that documents a murder trial in which a 15-year-old African-American is wrongfully accused of a 2000 murder in Jacksonville, Florida."
+     }
+}

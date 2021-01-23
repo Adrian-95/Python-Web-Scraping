@@ -1,0 +1,86 @@
+{
+     "1": {
+          "name": "Ringenes herre: Kongen vender tilbage",
+          "runtime": "201 min",
+          "genre": "Action, Adventure, Drama",
+          "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+     },
+     "2": {
+          "name": "Lost in Translation",
+          "runtime": "102 min",
+          "genre": "Comedy, Drama",
+          "description": "A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo."
+     },
+     "3": {
+          "name": "Mystic River",
+          "runtime": "138 min",
+          "genre": "Crime, Drama, Mystery",
+          "description": "The lives of three men who were childhood friends are shattered when one of them has a family tragedy."
+     },
+     "4": {
+          "name": "Find Nemo",
+          "runtime": "100 min",
+          "genre": "Animation, Adventure, Comedy",
+          "description": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home."
+     },
+     "5": {
+          "name": "Monster",
+          "runtime": "109 min",
+          "genre": "Biography, Crime, Drama",
+          "description": "Based on the life of Aileen Wuornos, a Daytona Beach prostitute who became a serial killer."
+     },
+     "6": {
+          "name": "Master and Commander: Til verdens ende",
+          "runtime": "138 min",
+          "genre": "Action, Adventure, Drama",
+          "description": "During the Napoleonic Wars, a brash British captain pushes his ship and crew to their limits in pursuit of a formidable French war vessel around South America."
+     },
+     "7": {
+          "name": "Tilbage til Cold Mountain",
+          "runtime": "154 min",
+          "genre": "Adventure, Drama, History",
+          "description": "In the waning days of the American Civil War, a wounded soldier embarks on a perilous journey back home to Cold Mountain, North Carolina to reunite with his sweetheart."
+     },
+     "8": {
+          "name": "Barbarernes invasion",
+          "runtime": "99 min",
+          "genre": "Comedy, Crime, Drama",
+          "description": "During his final days, a dying man is reunited with old friends, former lovers, his ex-wife, and his estranged son."
+     },
+     "9": {
+          "name": "The Fog of War: Eleven Lessons from the Life of Robert S. McNamara",
+          "runtime": "107 min",
+          "genre": "Documentary, Biography, History",
+          "description": "The story of America as seen through the eyes of the former Secretary of Defense under President John F. Kennedy and President Lyndon B. Johnson, Robert McNamara."
+     },
+     "10": {
+          "name": "Wasp",
+          "runtime": "26 min",
+          "genre": "Short, Drama",
+          "description": "Zo\u00eb is a single mother who lives with her four children in Dartford. She is poor and can't afford to buy food. One day her ex-boyfriend drives by and asks her to go on a date with him. ...                See full summary\u00a0\u00bb"
+     },
+     "11": {
+          "name": "Harvie Krumpet",
+          "runtime": "23 min",
+          "genre": "Animation, Comedy, Short",
+          "description": "The odd biography of a man who has Tourette's Syndrome, chronic bad luck, menial jobs, nudist tendencies, and a book of \"fakts\" hung around his neck."
+     },
+     "12": {
+          "name": "Two Soldiers",
+          "runtime": "40 min",
+          "genre": "Short, Drama, War",
+          "description": "Mississippi, just before Pearl Harbor. Two brothers, Pete, about 19 and Willie, about 10 years younger. They are clearly close friends. The news arrives, and Pete goes to enlist. Willie ...                See full summary\u00a0\u00bb"
+     },
+     "13": {
+          "name": "Twin Towers",
+          "runtime": "34 min",
+          "genre": "Short",
+          "description": "Two brothers, one a firefighter, one a police officer, are remembered for their bravery in New York City on September 11."
+     },
+     "14": {
+          "name": "Chernobyl Heart",
+          "runtime": "39 min",
+          "genre": "Documentary, Short",
+          "description": "This Academy Award-winning documentary takes a look at children born after the 1986 Chernobyl nuclear plant disaster who have been born with a deteriorated heart condition."
+     }
+}

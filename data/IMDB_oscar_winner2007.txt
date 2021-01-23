@@ -1,0 +1,98 @@
+{
+     "1": {
+          "name": "No Country for Old Men",
+          "runtime": "122 min",
+          "genre": "Crime, Drama, Thriller",
+          "description": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande."
+     },
+     "2": {
+          "name": "There Will Be Blood",
+          "runtime": "158 min",
+          "genre": "Drama",
+          "description": "A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business."
+     },
+     "3": {
+          "name": "Ratatouille",
+          "runtime": "111 min",
+          "genre": "Animation, Adventure, Comedy",
+          "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant."
+     },
+     "4": {
+          "name": "Soning",
+          "runtime": "123 min",
+          "genre": "Drama, Mystery, Romance",
+          "description": "Thirteen-year-old fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit."
+     },
+     "5": {
+          "name": "Det gyldne kompas",
+          "runtime": "113 min",
+          "genre": "Adventure, Family, Fantasy",
+          "description": "In a parallel universe, young Lyra Belacqua journeys to the far North to save her best friend and other kidnapped children from terrible experiments by a mysterious organization."
+     },
+     "6": {
+          "name": "Juno",
+          "runtime": "96 min",
+          "genre": "Comedy, Drama",
+          "description": "Faced with an unplanned pregnancy, an offbeat young person makes an unusual decision regarding the unborn child."
+     },
+     "7": {
+          "name": "The Bourne Ultimatum",
+          "runtime": "115 min",
+          "genre": "Action, Mystery, Thriller",
+          "description": "Jason Bourne dodges a ruthless C.I.A. official and his Agents from a new assassination program while searching for the origins of his life as a trained killer."
+     },
+     "8": {
+          "name": "Sweeney Todd: Den dj\u00e6velske barber fra Fleet Street",
+          "runtime": "116 min",
+          "genre": "Drama, Horror, Musical",
+          "description": "The infamous story of Benjamin Barker, aka Sweeney Todd, who sets up a barber shop in London which is the basis for a sinister partnership with his fellow tenant, Mrs. Lovett."
+     },
+     "9": {
+          "name": "Elizabeth: The Golden Age",
+          "runtime": "114 min",
+          "genre": "Biography, Drama, History",
+          "description": "A mature Queen Elizabeth endures multiple crises late in her reign including court intrigues, an assassination plot, the Spanish Armada, and romantic disappointments."
+     },
+     "10": {
+          "name": "Michael Clayton",
+          "runtime": "119 min",
+          "genre": "Crime, Drama, Mystery",
+          "description": "A law firm brings in its \"fixer\" to remedy the situation after a lawyer has a breakdown while representing a chemical company that he knows is guilty in a multibillion-dollar class action suit."
+     },
+     "11": {
+          "name": "Once",
+          "runtime": "86 min",
+          "genre": "Drama, Music, Romance",
+          "description": "A modern-day musical about a busker and an immigrant and their eventful week in Dublin, as they write, rehearse and record songs that tell their love story."
+     },
+     "12": {
+          "name": "Edith Piaf",
+          "runtime": "140 min",
+          "genre": "Biography, Drama, Music",
+          "description": "Biopic of the iconic French singer \u00c9dith Piaf. Raised by her grandmother in a brothel, she was discovered while singing on a street corner at the age of 19. Despite her success, Piaf's life was filled with tragedy."
+     },
+     "13": {
+          "name": "Forfalskerne",
+          "runtime": "99 min",
+          "genre": "Crime, Drama, History",
+          "description": "The story of the Operation Bernhard, the largest counterfeiting operation in history, carried out by Germany during WWII."
+     },
+     "14": {
+          "name": "Taxi to the Dark Side",
+          "runtime": "106 min",
+          "genre": "Documentary, Crime, History",
+          "description": "Alex Gibney exposes the haunting details of the USA's torture and interrogation practices during the War in Afghanistan."
+     },
+     "15": {
+          "name": "Spielzeugland",
+          "runtime": "14 min",
+          "genre": "Short, Drama, War",
+          "description": "A German mother lies to her son about where the Nazis are sending their Jewish neighbors."
+     },
+     "16": {
+          "name": "Freeheld",
+          "runtime": "39 min",
+          "genre": "Documentary, Short",
+          "description": "Lieutenant Laurel Hester is dying. All she wants to do is leave her pension benefits to her life partner - Stacie, so Stacie can afford to keep their house. Laurel is told no; they are not ...                See full summary\u00a0\u00bb"
+     }
+}

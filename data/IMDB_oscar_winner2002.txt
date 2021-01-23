@@ -1,0 +1,80 @@
+{
+     "1": {
+          "name": "Ringenes herre: De to t\u00e5rne",
+          "runtime": "179 min",
+          "genre": "Action, Adventure, Drama",
+          "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard."
+     },
+     "2": {
+          "name": "Pianisten",
+          "runtime": "150 min",
+          "genre": "Biography, Drama, Music",
+          "description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II."
+     },
+     "3": {
+          "name": "Vejen til Perdition",
+          "runtime": "117 min",
+          "genre": "Crime, Drama, Thriller",
+          "description": "A mob enforcer's son witnesses a murder, forcing him and his father to take to the road, and his father down a path of redemption and revenge."
+     },
+     "4": {
+          "name": "8 Mile",
+          "runtime": "110 min",
+          "genre": "Drama, Music",
+          "description": "A young rapper, struggling with every aspect of his life, wants to make it big but his friends and foes make this odyssey of rap harder than it may seem."
+     },
+     "5": {
+          "name": "Chicago",
+          "runtime": "113 min",
+          "genre": "Comedy, Crime, Musical",
+          "description": "Two death-row murderesses develop a fierce rivalry while competing for publicity, celebrity, and a sleazy lawyer's attention."
+     },
+     "6": {
+          "name": "Orkid\u00e9-tyven",
+          "runtime": "115 min",
+          "genre": "Comedy, Drama",
+          "description": "A lovelorn screenwriter becomes desperate as he tries and fails to adapt 'The Orchid Thief' by Susan Orlean for the screen."
+     },
+     "7": {
+          "name": "The Hours",
+          "runtime": "110 min",
+          "genre": "Drama, Romance",
+          "description": "The story of how the novel \"Mrs. Dalloway\" affects three generations of women, all of whom, in one way or another, have had to deal with suicide in their lives."
+     },
+     "8": {
+          "name": "Frida",
+          "runtime": "123 min",
+          "genre": "Biography, Drama, Romance",
+          "description": "A biography of artist Frida Kahlo, who channeled the pain of a crippling injury and her tempestuous marriage into her work."
+     },
+     "9": {
+          "name": "Tal til hende",
+          "runtime": "112 min",
+          "genre": "Drama, Mystery, Romance",
+          "description": "Two men share an odd friendship while they care for two women who are both in deep comas."
+     },
+     "10": {
+          "name": "Bowling for Columbine",
+          "runtime": "120 min",
+          "genre": "Documentary, Crime, Drama",
+          "description": "Filmmaker Michael Moore explores the roots of America's predilection for gun violence."
+     },
+     "11": {
+          "name": "Chubbchubbs!",
+          "runtime": "6 min",
+          "genre": "Animation, Short, Comedy",
+          "description": "A janitor at an alien nightclub gets his wish to be a singer."
+     },
+     "12": {
+          "name": "Thoth",
+          "runtime": "40 min",
+          "genre": "Documentary, Short, Music",
+          "description": "Thoth is a street performer currently in New York. Thoth is an individual with a complicated life and background. Thoth plays on opera with a violin in a loincloth in Central Park. Thoth is."
+     },
+     "13": {
+          "name": "Der er en yndig mand",
+          "runtime": "30 min",
+          "genre": "Comedy, Short",
+          "description": "Lars Hansen is in a job training program. He finds a potential job at a print shop, but his paperwork gets mixed up with an El Hassan. He is scheduled for a Danish class, since he's ...                See full summary\u00a0\u00bb"
+     }
+}

@@ -1,0 +1,80 @@
+{
+     "1": {
+          "name": "The Girl with the Dragon Tattoo",
+          "runtime": "158 min",
+          "genre": "Crime, Drama, Mystery",
+          "description": "Journalist Mikael Blomkvist is aided in his search for a woman who has been missing for forty years by Lisbeth Salander, a young computer hacker."
+     },
+     "2": {
+          "name": "Niceville",
+          "runtime": "146 min",
+          "genre": "Drama",
+          "description": "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis."
+     },
+     "3": {
+          "name": "Rango",
+          "runtime": "107 min",
+          "genre": "Animation, Adventure, Comedy",
+          "description": "Rango is an ordinary chameleon who accidentally winds up in the town of Dirt, a lawless outpost in the Wild West in desperate need of a new sheriff."
+     },
+     "4": {
+          "name": "Midnight in Paris",
+          "runtime": "96 min",
+          "genre": "Comedy, Fantasy, Romance",
+          "description": "While on a trip to Paris with his fianc\u00e9e's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight."
+     },
+     "5": {
+          "name": "Hugo",
+          "runtime": "126 min",
+          "genre": "Drama, Family, Fantasy",
+          "description": "In 1931 Paris, an orphan living in the walls of a train station gets wrapped up in a mystery involving his late father and an automaton."
+     },
+     "6": {
+          "name": "The Descendants",
+          "runtime": "115 min",
+          "genre": "Comedy, Drama",
+          "description": "A land baron tries to reconnect with his two daughters after his wife is seriously injured in a boating accident."
+     },
+     "7": {
+          "name": "Nader og Simin - en separation",
+          "runtime": "123 min",
+          "genre": "Drama",
+          "description": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease."
+     },
+     "8": {
+          "name": "The Artist",
+          "runtime": "100 min",
+          "genre": "Comedy, Drama, Romance",
+          "description": "An egomaniacal film star develops a relationship with a young dancer against the backdrop of Hollywood's silent era."
+     },
+     "9": {
+          "name": "Jernladyen",
+          "runtime": "105 min",
+          "genre": "Biography, Drama",
+          "description": "An elderly Margaret Thatcher talks to the imagined presence of her recently deceased husband as she struggles to come to terms with his death while scenes from her past life, from girlhood to British prime minister, intervene."
+     },
+     "10": {
+          "name": "The Muppets",
+          "runtime": "120 min",
+          "genre": "Adventure, Comedy, Family",
+          "description": "A Muppet fanatic with some help from his 2 human compatriots must regroup the Muppet gang to stop an avaricious oil mogul from taking down one of their precious life-longing treasures."
+     },
+     "11": {
+          "name": "Undefeated",
+          "runtime": "113 min",
+          "genre": "Documentary, Sport",
+          "description": "Chronicles three underprivileged students from inner-city Memphis and their volunteer coach who tries to help them beat the odds on and off the field."
+     },
+     "12": {
+          "name": "The Shore",
+          "runtime": "29 min",
+          "genre": "Short, Comedy, Drama",
+          "description": "The story of Joe and Paddy, whose childhood friendship is shattered by the troubles in Northern Ireland. Twenty five years later they are reunited."
+     },
+     "13": {
+          "name": "The Fantastic Flying Books of Mr. Morris Lessmore",
+          "runtime": "15 min",
+          "genre": "Animation, Short, Adventure",
+          "description": "After a hurricane levels his city, a young man wanders into a mysterious library where books literally come to life."
+     }
+}

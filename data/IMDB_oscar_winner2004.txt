@@ -1,0 +1,98 @@
+{
+     "1": {
+          "name": "Evigt solskin i et pletfrit sind",
+          "runtime": "108 min",
+          "genre": "Drama, Romance, Sci-Fi",
+          "description": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories."
+     },
+     "2": {
+          "name": "De utrolige",
+          "runtime": "115 min",
+          "genre": "Animation, Action, Adventure",
+          "description": "A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world."
+     },
+     "3": {
+          "name": "The Aviator",
+          "runtime": "170 min",
+          "genre": "Biography, Drama",
+          "description": "A biopic depicting the early years of legendary Director and aviator Howard Hughes' career from the late 1920s to the mid 1940s."
+     },
+     "4": {
+          "name": "Crash",
+          "runtime": "112 min",
+          "genre": "Crime, Drama, Thriller",
+          "description": "Los Angeles citizens with vastly separate lives collide in interweaving stories of race, loss and redemption."
+     },
+     "5": {
+          "name": "Million Dollar Baby",
+          "runtime": "132 min",
+          "genre": "Drama, Sport",
+          "description": "A determined woman works with a hardened boxing trainer to become a professional."
+     },
+     "6": {
+          "name": "Spider-Man 2",
+          "runtime": "127 min",
+          "genre": "Action, Adventure, Sci-Fi",
+          "description": "Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius."
+     },
+     "7": {
+          "name": "Lemony Snickets \u00c9n ulykke kommer sj\u00e6ldent alene",
+          "runtime": "108 min",
+          "genre": "Adventure, Comedy, Family",
+          "description": "When a massive fire kills their parents, three children are delivered to the custody of cousin and stage actor Count Olaf, who is secretly plotting to steal their parents' vast fortune."
+     },
+     "8": {
+          "name": "Sideways",
+          "runtime": "127 min",
+          "genre": "Comedy, Drama, Romance",
+          "description": "Two men reaching middle age with not much to show but disappointment embark on a week-long road trip through California's wine country, just as one is about to take a trip down the aisle."
+     },
+     "9": {
+          "name": "Ray",
+          "runtime": "152 min",
+          "genre": "Biography, Drama, Music",
+          "description": "The story of the life and career of the legendary rhythm and blues musician Ray Charles, from his humble beginnings in the South, where he went blind at age seven, to his meteoric rise to stardom during the 1950s and 1960s."
+     },
+     "10": {
+          "name": "Finding Neverland",
+          "runtime": "106 min",
+          "genre": "Biography, Drama, Family",
+          "description": "The story of Sir J.M. Barrie's friendship with a family who inspired him to create Peter Pan."
+     },
+     "11": {
+          "name": "Motorcykeldagbog",
+          "runtime": "126 min",
+          "genre": "Adventure, Biography, Drama",
+          "description": "The dramatization of a motorcycle road trip Che Guevara went on in his youth that showed him his life's calling."
+     },
+     "12": {
+          "name": "Mit indre hav",
+          "runtime": "126 min",
+          "genre": "Biography, Drama",
+          "description": "The factual story of Spaniard Ramon Sampedro, who fought a thirty-year campaign in favor of euthanasia and his own right to die."
+     },
+     "13": {
+          "name": "Six Shooter",
+          "runtime": "27 min",
+          "genre": "Short, Comedy, Drama",
+          "description": "A black and bloody Irish comedy about a sad train journey where an older man, whose wife has died that morning, encounters a strange and possibly psychotic young oddball...."
+     },
+     "14": {
+          "name": "Born Into Brothels: Calcutta's Red Light Kids",
+          "runtime": "85 min",
+          "genre": "Documentary, Biography, News",
+          "description": "Two documentary filmmakers chronicle their time in Sonagchi, Calcutta and the relationships they developed with children of prostitutes who work the city's notorious red light district."
+     },
+     "15": {
+          "name": "Mighty Times: The Children's March",
+          "runtime": "40 min",
+          "genre": "Documentary, Short, Drama",
+          "description": "The children of Baltimore, Maryland take to the streets for civil rights in 1963."
+     },
+     "16": {
+          "name": "Ryan",
+          "runtime": "14 min",
+          "genre": "Documentary, Animation, Short",
+          "description": "The movie talks about the life of Ryan Larkin, a gifted Canadian animator of the late '60s and the early '70s."
+     }
+}

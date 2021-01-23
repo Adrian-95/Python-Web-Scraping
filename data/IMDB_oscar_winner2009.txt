@@ -1,0 +1,74 @@
+{
+     "1": {
+          "name": "Inglourious Basterds",
+          "runtime": "153 min",
+          "genre": "Adventure, Drama, War",
+          "description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same."
+     },
+     "2": {
+          "name": "Star Trek",
+          "runtime": "127 min",
+          "genre": "Action, Adventure, Sci-Fi",
+          "description": "The brash James T. Kirk tries to live up to his father's legacy with Mr. Spock keeping him in check as a vengeful Romulan from the future creates black holes to destroy the Federation one planet at a time."
+     },
+     "3": {
+          "name": "Avatar",
+          "runtime": "162 min",
+          "genre": "Action, Adventure, Fantasy",
+          "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home."
+     },
+     "4": {
+          "name": "Op",
+          "runtime": "96 min",
+          "genre": "Animation, Adventure, Comedy",
+          "description": "78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway."
+     },
+     "5": {
+          "name": "The Blind Side",
+          "runtime": "129 min",
+          "genre": "Biography, Drama, Sport",
+          "description": "The story of Michael Oher, a homeless and traumatized boy who became an All-American football player and first-round NFL draft pick with the help of a caring woman and her family."
+     },
+     "6": {
+          "name": "\u00d8jnenes hemmelighed",
+          "runtime": "129 min",
+          "genre": "Drama, Mystery, Romance",
+          "description": "A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later."
+     },
+     "7": {
+          "name": "Precious",
+          "runtime": "110 min",
+          "genre": "Drama",
+          "description": "In New York City's Harlem circa 1987, an overweight, abused, illiterate teen who is pregnant with her second child is invited to enroll in an alternative school in hopes that her life can head in a new direction."
+     },
+     "8": {
+          "name": "The Young Victoria",
+          "runtime": "105 min",
+          "genre": "Biography, Drama, History",
+          "description": "A dramatization of the turbulent first years of Queen Victoria's rule, and her enduring romance with Prince Albert."
+     },
+     "9": {
+          "name": "Crazy Heart",
+          "runtime": "112 min",
+          "genre": "Drama, Music, Romance",
+          "description": "A faded country music musician is forced to reassess his dysfunctional life during a doomed romance that also inspires him."
+     },
+     "10": {
+          "name": "The Cove",
+          "runtime": "92 min",
+          "genre": "Documentary, Biography, Crime",
+          "description": "Using state-of-the-art equipment, a group of activists, led by renowned dolphin trainer Ric O'Barry, infiltrate a cove near Taijii, Japan to expose both a shocking instance of animal abuse and a serious threat to human health."
+     },
+     "11": {
+          "name": "Logorama",
+          "runtime": "16 min",
+          "genre": "Animation, Short, Action",
+          "description": "Police chase an armed criminal in a version of Los Angeles comprised entirely of corporate logos."
+     },
+     "12": {
+          "name": "The New Tenants",
+          "runtime": "21 min",
+          "genre": "Short, Comedy, Crime",
+          "description": "A nosy neighbor, a drug dealer and an angry husband make for a move-in day that two men will never forget."
+     }
+}

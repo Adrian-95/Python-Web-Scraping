@@ -1,0 +1,98 @@
+{
+     "1": {
+          "name": "Parasite",
+          "runtime": "132 min",
+          "genre": "Comedy, Drama, Thriller",
+          "description": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+     },
+     "2": {
+          "name": "Once Upon a Time... in Hollywood",
+          "runtime": "161 min",
+          "genre": "Comedy, Drama",
+          "description": "A faded television actor and his stunt double strive to achieve fame and success in the final years of Hollywood's Golden Age in 1969 Los Angeles."
+     },
+     "3": {
+          "name": "1917",
+          "runtime": "119 min",
+          "genre": "Drama, Thriller, War",
+          "description": "April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap."
+     },
+     "4": {
+          "name": "Joker",
+          "runtime": "122 min",
+          "genre": "Crime, Drama, Thriller",
+          "description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker."
+     },
+     "5": {
+          "name": "Jojo Rabbit",
+          "runtime": "108 min",
+          "genre": "Comedy, Drama, War",
+          "description": "A young boy in Hitler's army finds out his mother is hiding a Jewish girl in their home."
+     },
+     "6": {
+          "name": "Opg\u00f8rets time",
+          "runtime": "109 min",
+          "genre": "Biography, Drama",
+          "description": "A group of women take on Fox News head Roger Ailes and the toxic atmosphere he presided over at the network."
+     },
+     "7": {
+          "name": "Little Women",
+          "runtime": "135 min",
+          "genre": "Drama, Romance",
+          "description": "Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women, each determined to live life on her own terms."
+     },
+     "8": {
+          "name": "Le Mans '66",
+          "runtime": "152 min",
+          "genre": "Action, Biography, Drama",
+          "description": "American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966."
+     },
+     "9": {
+          "name": "Rocketman",
+          "runtime": "121 min",
+          "genre": "Biography, Drama, Music",
+          "description": "A musical fantasy about the fantastical human story of Elton John's breakthrough years."
+     },
+     "10": {
+          "name": "Toy Story 4",
+          "runtime": "100 min",
+          "genre": "Animation, Adventure, Comedy",
+          "description": "When a new toy called \"Forky\" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy."
+     },
+     "11": {
+          "name": "Marriage Story",
+          "runtime": "137 min",
+          "genre": "Comedy, Drama, Romance",
+          "description": "Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together."
+     },
+     "12": {
+          "name": "Judy",
+          "runtime": "118 min",
+          "genre": "Biography, Drama, Romance",
+          "description": "Legendary performer Judy Garland arrives in London in the winter of 1968 to perform a series of sold-out concerts."
+     },
+     "13": {
+          "name": "American Factory",
+          "runtime": "110 min",
+          "genre": "Documentary",
+          "description": "In post-industrial Ohio, a Chinese billionaire opens a factory in an abandoned General Motors plant, hiring two thousand Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class America."
+     },
+     "14": {
+          "name": "The Neighbors' Window",
+          "runtime": "21 min",
+          "genre": "Short, Drama",
+          "description": "It tells the story of a middle aged woman with small children whose life is shaken up when two free-spirited twenty-somethings move in across the street."
+     },
+     "15": {
+          "name": "Hair Love",
+          "runtime": "7 min",
+          "genre": "Animation, Short, Comedy",
+          "description": "A father tries to do his daughter's hair for the first time."
+     },
+     "16": {
+          "name": "Learning to Skateboard in a Warzone (If You're a Girl)",
+          "runtime": "39 min",
+          "genre": "Documentary, Short, Sport",
+          "description": "Learning To Skateboard In A Warzone (If You're A Girl) is the story of young Afghan girls learning to read, write-and skateboard-in Kabul."
+     }
+}

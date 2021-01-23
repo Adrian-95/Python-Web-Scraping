@@ -1,0 +1,80 @@
+{
+     "1": {
+          "name": "The Dark Knight",
+          "runtime": "152 min",
+          "genre": "Action, Crime, Drama",
+          "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+     },
+     "2": {
+          "name": "Benjamin Buttons forunderlige liv",
+          "runtime": "166 min",
+          "genre": "Drama, Fantasy, Romance",
+          "description": "Tells the story of Benjamin Button, a man who starts aging backwards with consequences."
+     },
+     "3": {
+          "name": "WALL\u00b7E",
+          "runtime": "98 min",
+          "genre": "Animation, Adventure, Family",
+          "description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind."
+     },
+     "4": {
+          "name": "The Hurt Locker",
+          "runtime": "131 min",
+          "genre": "Drama, Thriller, War",
+          "description": "During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work."
+     },
+     "5": {
+          "name": "Slumdog Millionaire - Drengen der havde svar p\u00e5 alt",
+          "runtime": "120 min",
+          "genre": "Drama, Romance",
+          "description": "A Mumbai teenager reflects on his life after being accused of cheating on the Indian version of \"Who Wants to be a Millionaire?\"."
+     },
+     "6": {
+          "name": "The Reader",
+          "runtime": "124 min",
+          "genre": "Drama, Romance",
+          "description": "Post-WWII Germany: Nearly a decade after his affair with an older woman came to a mysterious end, law student Michael Berg re-encounters his former lover as she defends herself in a war-crime trial."
+     },
+     "7": {
+          "name": "Vicky Cristina Barcelona",
+          "runtime": "96 min",
+          "genre": "Comedy, Drama, Romance",
+          "description": "Two friends on a summer holiday in Spain become enamored with the same painter, unaware that his ex-wife, with whom he has a tempestuous relationship, is about to re-enter the picture."
+     },
+     "8": {
+          "name": "The Duchess",
+          "runtime": "110 min",
+          "genre": "Biography, Drama, History",
+          "description": "A chronicle of the life of 18th-century aristocrat Georgiana, Duchess of Devonshire, who was reviled for her extravagant political and personal life."
+     },
+     "9": {
+          "name": "Milk",
+          "runtime": "128 min",
+          "genre": "Biography, Drama",
+          "description": "The story of Harvey Milk and his struggles as an American gay activist who fought for gay rights and became California's first openly gay elected official."
+     },
+     "10": {
+          "name": "Departures",
+          "runtime": "130 min",
+          "genre": "Drama, Music",
+          "description": "A newly unemployed cellist takes a job preparing the dead for funerals."
+     },
+     "11": {
+          "name": "Man on Wire",
+          "runtime": "94 min",
+          "genre": "Documentary, Biography, Crime",
+          "description": "A look at tightrope walker Philippe Petit's daring, but illegal, high-wire routine performed between New York City's World Trade Center's twin towers in 1974, what some consider, \"the artistic crime of the century\"."
+     },
+     "12": {
+          "name": "Tsumiki no ie",
+          "runtime": "12 min",
+          "genre": "Animation, Short, Drama",
+          "description": "To save his house from rising flood waters, an old man uses bricks to build it higher, then he relives events from his past while searching for his dropped pipe."
+     },
+     "13": {
+          "name": "Smile Pinki",
+          "runtime": "39 min",
+          "genre": "Documentary, Short",
+          "description": "A destitute Indian child meets a social worker who makes it possible for her to obtain free surgery to cure her cleft lip."
+     }
+}

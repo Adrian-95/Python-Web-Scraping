@@ -1,0 +1,92 @@
+{
+     "1": {
+          "name": "Green Book",
+          "runtime": "130 min",
+          "genre": "Biography, Comedy, Drama",
+          "description": "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South."
+     },
+     "2": {
+          "name": "Black Panther",
+          "runtime": "134 min",
+          "genre": "Action, Adventure, Sci-Fi",
+          "description": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past."
+     },
+     "3": {
+          "name": "Spider-Man: Into the Spider-Verse",
+          "runtime": "117 min",
+          "genre": "Animation, Action, Adventure",
+          "description": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities."
+     },
+     "4": {
+          "name": "A Star Is Born",
+          "runtime": "136 min",
+          "genre": "Drama, Music, Romance",
+          "description": "A musician helps a young singer find fame as age and alcoholism send his own career into a downward spiral."
+     },
+     "5": {
+          "name": "BlacKkKlansman",
+          "runtime": "135 min",
+          "genre": "Biography, Comedy, Crime",
+          "description": "Ron Stallworth, an African American police officer from Colorado Springs, CO, successfully manages to infiltrate the local Ku Klux Klan branch with the help of a Jewish surrogate who eventually becomes its leader. Based on actual events."
+     },
+     "6": {
+          "name": "Bohemian Rhapsody",
+          "runtime": "134 min",
+          "genre": "Biography, Drama, Music",
+          "description": "The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985)."
+     },
+     "7": {
+          "name": "First Man",
+          "runtime": "141 min",
+          "genre": "Biography, Drama, History",
+          "description": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969."
+     },
+     "8": {
+          "name": "Vice",
+          "runtime": "132 min",
+          "genre": "Biography, Comedy, Drama",
+          "description": "The story of Dick Cheney, an unassuming bureaucratic Washington insider, who quietly wielded immense power as Vice President to George W. Bush, reshaping the country and the globe in ways that we still feel today."
+     },
+     "9": {
+          "name": "The Favourite",
+          "runtime": "119 min",
+          "genre": "Biography, Comedy, Drama",
+          "description": "In early 18th century England, a frail Queen Anne occupies the throne and her close friend, Lady Sarah, governs the country in her stead. When a new servant, Abigail, arrives, her charm endears her to Sarah."
+     },
+     "10": {
+          "name": "Roma",
+          "runtime": "135 min",
+          "genre": "Drama",
+          "description": "A year in the life of a middle-class family's maid in Mexico City in the early 1970s."
+     },
+     "11": {
+          "name": "If Beale Street Could Talk",
+          "runtime": "119 min",
+          "genre": "Drama, Romance",
+          "description": "A young woman embraces her pregnancy while she and her family set out to prove her childhood friend and lover innocent of a crime he didn't commit."
+     },
+     "12": {
+          "name": "Free Solo - Klatretur med livet som indsats",
+          "runtime": "100 min",
+          "genre": "Documentary, Adventure, Sport",
+          "description": "Alex Honnold attempts to become the first person to ever free solo climb El Capitan."
+     },
+     "13": {
+          "name": "Skin",
+          "runtime": "21 min",
+          "genre": "Short, Drama, Thriller",
+          "description": "In a small supermarket in a blue collar town, a black man smiles at a 10-year-old white boy across the checkout aisle. This innocuous moment sends two gangs into a ruthless war that ends with a shocking backlash."
+     },
+     "14": {
+          "name": "Bao",
+          "runtime": "8 min",
+          "genre": "Animation, Short, Family",
+          "description": "A Chinese-Canadian woman suffering from empty nest syndrome gets a second shot at motherhood when one of her handmade dumplings comes alive."
+     },
+     "15": {
+          "name": "Period. End of Sentence.",
+          "runtime": "26 min",
+          "genre": "Documentary, Short",
+          "description": "Indian women fight the stigma surrounding menstruation and begin manufacturing sanitary pads."
+     }
+}

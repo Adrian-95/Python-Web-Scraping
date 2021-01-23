@@ -1,0 +1,86 @@
+{
+     "1": {
+          "name": "Blade Runner 2049",
+          "runtime": "164 min",
+          "genre": "Action, Drama, Mystery",
+          "description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years."
+     },
+     "2": {
+          "name": "Call Me by Your Name",
+          "runtime": "132 min",
+          "genre": "Drama, Romance",
+          "description": "In 1980s Italy, romance blossoms between a seventeen-year-old student and the older man hired as his father's research assistant."
+     },
+     "3": {
+          "name": "Dunkirk",
+          "runtime": "106 min",
+          "genre": "Action, Drama, History",
+          "description": "Allied soldiers from Belgium, the British Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II."
+     },
+     "4": {
+          "name": "Three Billboards Outside Ebbing, Missouri",
+          "runtime": "115 min",
+          "genre": "Comedy, Crime, Drama",
+          "description": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit."
+     },
+     "5": {
+          "name": "Get Out",
+          "runtime": "104 min",
+          "genre": "Horror, Mystery, Thriller",
+          "description": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point."
+     },
+     "6": {
+          "name": "Coco",
+          "runtime": "105 min",
+          "genre": "Animation, Adventure, Family",
+          "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer."
+     },
+     "7": {
+          "name": "The Shape of Water",
+          "runtime": "123 min",
+          "genre": "Adventure, Drama, Fantasy",
+          "description": "At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity."
+     },
+     "8": {
+          "name": "Den skjulte tr\u00e5d",
+          "runtime": "130 min",
+          "genre": "Drama, Romance",
+          "description": "Set in 1950s London, Reynolds Woodcock is a renowned dressmaker whose fastidious life is disrupted by a young, strong-willed woman, Alma, who becomes his muse and lover."
+     },
+     "9": {
+          "name": "I, Tonya",
+          "runtime": "119 min",
+          "genre": "Biography, Comedy, Drama",
+          "description": "Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes."
+     },
+     "10": {
+          "name": "Darkest Hour",
+          "runtime": "125 min",
+          "genre": "Biography, Drama, History",
+          "description": "In May 1940, the fate of World War II hangs on Winston Churchill, who must decide whether to negotiate with Adolf Hitler, or fight on knowing that it could mean the end of the British Empire."
+     },
+     "11": {
+          "name": "Ikaros",
+          "runtime": "120 min",
+          "genre": "Documentary, Sport",
+          "description": "When Bryan sets out to uncover the truth about doping in sports, a chance meeting with a Russian scientist transforms his story from a personal experiment into a geopolitical thriller."
+     },
+     "12": {
+          "name": "En fantastisk kvinde",
+          "runtime": "104 min",
+          "genre": "Drama",
+          "description": "Marina, a transgender woman who works as a waitress and moonlights as a nightclub singer, is bowled over by the death of her older boyfriend."
+     },
+     "13": {
+          "name": "The Silent Child",
+          "runtime": "20 min",
+          "genre": "Short, Drama",
+          "description": "A deaf 6-year-old girl named Libby lives in a world of silence until a caring social worker teaches her to use sign language to communicate."
+     },
+     "14": {
+          "name": "Dear Basketball",
+          "runtime": "6 min",
+          "genre": "Animation, Short, Biography",
+          "description": "An animated telling of Kobe Bryant's poem 'Dear Basketball'."
+     }
+}

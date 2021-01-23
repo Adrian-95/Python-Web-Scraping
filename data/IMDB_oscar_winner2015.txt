@@ -1,0 +1,86 @@
+{
+     "1": {
+          "name": "Mad Max: Fury Road",
+          "runtime": "120 min",
+          "genre": "Action, Adventure, Sci-Fi",
+          "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max."
+     },
+     "2": {
+          "name": "The Big Short",
+          "runtime": "130 min",
+          "genre": "Biography, Comedy, Drama",
+          "description": "In 2006-2007 a group of investors bet against the US mortgage market. In their research they discover how flawed and corrupt the market is."
+     },
+     "3": {
+          "name": "Room",
+          "runtime": "118 min",
+          "genre": "Drama, Thriller",
+          "description": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time."
+     },
+     "4": {
+          "name": "The Hateful Eight",
+          "runtime": "168 min",
+          "genre": "Crime, Drama, Mystery",
+          "description": "In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters."
+     },
+     "5": {
+          "name": "Inderst inde",
+          "runtime": "95 min",
+          "genre": "Animation, Adventure, Comedy",
+          "description": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school."
+     },
+     "6": {
+          "name": "The Revenant",
+          "runtime": "156 min",
+          "genre": "Action, Adventure, Drama",
+          "description": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team."
+     },
+     "7": {
+          "name": "Spotlight",
+          "runtime": "129 min",
+          "genre": "Biography, Crime, Drama",
+          "description": "The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core."
+     },
+     "8": {
+          "name": "Spectre",
+          "runtime": "148 min",
+          "genre": "Action, Adventure, Thriller",
+          "description": "A cryptic message from James Bond's past sends him on a trail to uncover the existence of a sinister organisation named SPECTRE. With a new threat dawning, Bond learns the terrible truth about the author of all his pain in his most recent missions."
+     },
+     "9": {
+          "name": "Spionernes bro",
+          "runtime": "142 min",
+          "genre": "Drama, History, Thriller",
+          "description": "During the Cold War, an American lawyer is recruited to defend an arrested Soviet spy in court, and then help the CIA facilitate an exchange of the spy for the Soviet captured American U2 spy plane pilot, Francis Gary Powers."
+     },
+     "10": {
+          "name": "Den danske pige",
+          "runtime": "119 min",
+          "genre": "Biography, Drama, Romance",
+          "description": "A fictitious love story loosely inspired by the lives of Danish artists Lili Elbe and Gerda Wegener. Lili and Gerda's marriage and work evolve as they navigate Lili's groundbreaking journey as a transgender pioneer."
+     },
+     "11": {
+          "name": "Sauls s\u00f8n",
+          "runtime": "107 min",
+          "genre": "Drama, War",
+          "description": "A Jewish-Hungarian concentration camp prisoner sets out to give a child he mistook for his son a proper burial."
+     },
+     "12": {
+          "name": "Amy",
+          "runtime": "128 min",
+          "genre": "Documentary, Biography, Music",
+          "description": "Archival footage and personal testimonials present an intimate portrait of the life and career of British singer/songwriter Amy Winehouse."
+     },
+     "13": {
+          "name": "Stutterer",
+          "runtime": "12 min",
+          "genre": "Short, Drama, Romance",
+          "description": "A man whose lush inner thoughts are rendered mute by a crippling stutter feels isolated from the world despite a flourishing online relationship."
+     },
+     "14": {
+          "name": "A Girl in the River: The Price of Forgiveness",
+          "runtime": "40 min",
+          "genre": "Documentary, Short",
+          "description": "A woman in Pakistan sentenced to death for falling in love becomes a rare survivor of the country's harsh judicial system."
+     }
+}

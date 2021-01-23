@@ -1,0 +1,92 @@
+{
+     "1": {
+          "name": "Interstellar",
+          "runtime": "169 min",
+          "genre": "Adventure, Drama, Sci-Fi",
+          "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+     },
+     "2": {
+          "name": "Whiplash",
+          "runtime": "106 min",
+          "genre": "Drama, Music",
+          "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential."
+     },
+     "3": {
+          "name": "The Grand Budapest Hotel",
+          "runtime": "99 min",
+          "genre": "Adventure, Comedy, Crime",
+          "description": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge."
+     },
+     "4": {
+          "name": "The Imitation Game",
+          "runtime": "114 min",
+          "genre": "Biography, Drama, Thriller",
+          "description": "During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians."
+     },
+     "5": {
+          "name": "Ex Machina",
+          "runtime": "108 min",
+          "genre": "Drama, Sci-Fi, Thriller",
+          "description": "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I."
+     },
+     "6": {
+          "name": "Birdman or (The Unexpected Virtue of Ignorance)",
+          "runtime": "119 min",
+          "genre": "Comedy, Drama",
+          "description": "A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production."
+     },
+     "7": {
+          "name": "Big Hero 6",
+          "runtime": "102 min",
+          "genre": "Animation, Action, Adventure",
+          "description": "A special bond develops between plus-sized inflatable robot Baymax and prodigy Hiro Hamada, who together team up with a group of friends to form a band of high-tech heroes."
+     },
+     "8": {
+          "name": "American Sniper",
+          "runtime": "133 min",
+          "genre": "Action, Biography, Drama",
+          "description": "Navy S.E.A.L. sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home with his family after four tours of duty, however, Chris finds that it is the war he can't leave behind."
+     },
+     "9": {
+          "name": "Teorien om alting",
+          "runtime": "123 min",
+          "genre": "Biography, Drama, Romance",
+          "description": "A look at the relationship between the famous physicist Stephen Hawking and his wife."
+     },
+     "10": {
+          "name": "Boyhood",
+          "runtime": "165 min",
+          "genre": "Drama",
+          "description": "The life of Mason, from early childhood to his arrival at college."
+     },
+     "11": {
+          "name": "Selma",
+          "runtime": "128 min",
+          "genre": "Biography, Drama, History",
+          "description": "A chronicle of Dr. Martin Luther King, Jr.'s campaign to secure equal voting rights via an epic march from Selma to Montgomery, Alabama, in 1965."
+     },
+     "12": {
+          "name": "Jeg er stadig Alice",
+          "runtime": "101 min",
+          "genre": "Drama",
+          "description": "A linguistics professor and her family find their bonds tested when she is diagnosed with Alzheimer's Disease."
+     },
+     "13": {
+          "name": "Citizenfour",
+          "runtime": "114 min",
+          "genre": "Documentary, Biography, History",
+          "description": "A documentarian and a reporter travel to Hong Kong for the first of many meetings with Edward Snowden."
+     },
+     "14": {
+          "name": "Feast",
+          "runtime": "6 min",
+          "genre": "Animation, Short, Comedy",
+          "description": "The love life of a man as told through the meals he gives his adopted dog, Winston."
+     },
+     "15": {
+          "name": "Historia de un oso",
+          "runtime": "11 min",
+          "genre": "Animation, Short, Adventure",
+          "description": "An old, lonesome bear tells the story of his life through a mechanical diorama."
+     }
+}
