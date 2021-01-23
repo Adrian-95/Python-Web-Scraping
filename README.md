@@ -6,6 +6,8 @@ Besides the movie title, we are also scraping a short description, the genre and
 
 ## Requirements
 
+```Python
 Python 3.7+
 BeautifulSoup4
 Requests
+```
